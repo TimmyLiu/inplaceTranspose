@@ -9,3 +9,6 @@ A one pass algorithms for inplace transpose of matrix with 1:2 ration<br />
 "permutation_calculation"<br />
 Calculates the matrix permutation number used in non square transposition based on page 4 of<br />
 http://www.netlib.org/utk/people/JackDongarra/CCDSC-2014/talk35.pdf
+
+"nonSquareOne2TwoRatio"<br />
+Nonsquare inplace transpose where n=2*m<br />
