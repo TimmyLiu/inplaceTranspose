@@ -12,3 +12,6 @@ http://www.netlib.org/utk/people/JackDongarra/CCDSC-2014/talk35.pdf
 
 "nonSquareOne2TwoRatio"<br />
 Nonsquare inplace transpose where n=2*m<br />
+
+"inplaceTranspose729_1to3_2pass_src"<br />
+Nonsquare inplace transpose where n=3*m<br />
